@@ -37,7 +37,10 @@ namespace Revisao
                     case "2":
                         foreach (var listAluno in alunos)
                         {
-                            Console.WriteLine($"Aluno: {listAluno.Nome} - Nota: {listAluno.Nota}");
+                            if (!string.IsNullOrEmpty(listAluno.Nome))
+                            {
+                                Console.WriteLine($"Aluno: {listAluno.Nome} - Nota: {listAluno.Nota}");
+                            }
                         }                    
                         break;
                     case "3":
