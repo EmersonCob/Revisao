@@ -1,0 +1,13 @@
+C:\Projetos_JEB\Revisao\bin\Debug\netcoreapp3.1\Revisao.exe
+C:\Projetos_JEB\Revisao\bin\Debug\netcoreapp3.1\Revisao.deps.json
+C:\Projetos_JEB\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.json
+C:\Projetos_JEB\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.dev.json
+C:\Projetos_JEB\Revisao\bin\Debug\netcoreapp3.1\Revisao.dll
+C:\Projetos_JEB\Revisao\bin\Debug\netcoreapp3.1\Revisao.pdb
+C:\Projetos_JEB\Revisao\obj\Debug\netcoreapp3.1\Revisao.csprojAssemblyReference.cache
+C:\Projetos_JEB\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfoInputs.cache
+C:\Projetos_JEB\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfo.cs
+C:\Projetos_JEB\Revisao\obj\Debug\netcoreapp3.1\Revisao.csproj.CoreCompileInputs.cache
+C:\Projetos_JEB\Revisao\obj\Debug\netcoreapp3.1\Revisao.dll
+C:\Projetos_JEB\Revisao\obj\Debug\netcoreapp3.1\Revisao.pdb
+C:\Projetos_JEB\Revisao\obj\Debug\netcoreapp3.1\Revisao.genruntimeconfig.cache
