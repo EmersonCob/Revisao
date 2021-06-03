@@ -26,9 +26,9 @@ namespace Revisao
                         }
                         else
                         {
-                            throw new AggregateException("Valor da nota deve ser decimal")
+                            throw new AggregateException("Valor da nota deve ser decimal");
                         }
-                        
+
                         break;
                     case "2":
                         //TODO: listar alunos                    
